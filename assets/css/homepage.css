@@ -1,0 +1,24 @@
+
+    h3 {
+        color: orange
+    }
+    p {
+        color:orchid
+    }
+    .pinktext {
+        color: green
+    }
+    li#pinktext {
+        color: purple
+    }
+    #firstbox {
+        width: 200px;
+        height: 100px;
+        background-color: indianred;
+    }
+    #secondbox {
+        width: 500px;
+        height: 500px;
+        background-color: indigo;
+    }
+ 
