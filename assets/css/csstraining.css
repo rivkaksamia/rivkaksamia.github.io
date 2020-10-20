@@ -1,0 +1,48 @@
+#boxone {
+     width: 100%;
+     height: 300px; 
+    background-image: url('../image/art.png');
+}
+
+#boxtwo {
+    width: 100%;
+    height: 300px; 
+   background-image: url('../image/LightBulb.png');
+}
+
+#boxthree {
+    width: 100%;
+    height: 300px; 
+   background-image: url('../image/Person.png');
+}
+
+#boxfour {
+    width: 100%;
+    height: 300px; 
+   background-image: url('../image/theexplorers_moodboard.png');
+}
+
+span {
+    color: white;
+    background-color: green;
+    font-size: 40px;
+}
+
+#boxtwo span {
+    background-color: pink;
+    font-size: 75px;
+
+}
+
+#boxfour h1 {
+    background-color: orange;
+    font-size: 60px;
+    font-style: bold;
+
+}
+
+#boxfour p {
+    color: orchid;
+    font-size: 40px;
+    
+}
