@@ -8,18 +8,24 @@
     width: 100%;
     height: 300px; 
    background-image: url('../image/LightBulb.png');
+   background-image: radial-gradient(blue
+   ,purple, white, orange, rgba(0, 0, 0, 0.1))
 }
 
 #boxthree {
     width: 100%;
     height: 300px; 
    background-image: url('../image/Person.png');
+   /* background-color #53D0B3; */
+   background-image: linear-gradient(90deg, blue
+   ,purple, white, orange)
 }
 
 #boxfour {
     width: 100%;
     height: 300px; 
    background-image: url('../image/theexplorers_moodboard.png');
+   box-shadow: 10px 50px 12px rgba(0, 0, 0, 0.25);
 }
 
 span {
@@ -45,4 +51,37 @@ span {
     color: orchid;
     font-size: 40px;
     
+}
+.texthoverstyle:hover {
+ color: blue;
+ font-size: 35px;
+
+}
+a.visitedlink{
+    color: orange;
+
+}
+a.visitedlink:visited {
+    color: purple  
+    
+}
+
+.shadowtext {
+text-shadow: 5px 5px 10px red;
+
+}
+
+div.flexcontainer {
+    display: flex;
+    background-color: skyblue;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+div.flexcontainer > div {
+    background-color: gray;
+    width: 200px;
+    height: 200px;
+    margin: 20px 10px;
+    padding: 20px;
 }
