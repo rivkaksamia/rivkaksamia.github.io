@@ -85,3 +85,27 @@ div.flexcontainer > div {
     margin: 20px 10px;
     padding: 20px;
 }
+
+a.statestyling p {
+    color: green;
+    text-decoration: underline;
+
+} 
+
+a.statestyling:visited p {
+   color: red;
+   text-decoration: underline;
+
+}
+
+a.statestyling:hover p {
+    background-color: green;
+    color: white;
+}
+
+
+a.statestyling:active p {
+    background-color: red;
+    color: white;
+}
+   

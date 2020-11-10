@@ -1,0 +1,25 @@
+.veggietext {
+ background-color: green;
+ color: white
+ padding: 20px;
+
+}
+
+.ricetext {
+    background-color: brown;
+    color: white;
+    padding: 10px 20px;
+
+}
+
+.container-fluid.bearbentobox {
+ padding-left: 0!important;
+ padding-right: 0!important;
+
+}
+
+.bearbentobox p {
+ background-color: limegreen;
+ color: white;
+
+}
