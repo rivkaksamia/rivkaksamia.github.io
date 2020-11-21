@@ -6,7 +6,7 @@
 }
 
 .media-body {
-    box-align: center;
+    box-align: left;
     padding-top: 2rem;
     padding-left: 2rem;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -26,4 +26,11 @@
     margin-top: 10px;
     margin-left: 25px;
 }
+
+/* Solid border */
+hr.solid {
+    border-top: 3px solid #bbb;
+  }
+
+
 
