@@ -1,0 +1,29 @@
+.media {
+    padding-top: 5rem;
+    padding-left: 5rem;
+    padding-right: 2rem;
+    
+}
+
+.media-body {
+    box-align: center;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 200px;
+    height: auto;
+   margin-top: 100px;
+    margin-left: 100px;
+  }
+
+.col-4 {
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
