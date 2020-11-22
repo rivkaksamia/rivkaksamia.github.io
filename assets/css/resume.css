@@ -1,5 +1,41 @@
 .col-lg-5 {
-    background-color: purple;
-
+    margin-top: 50px;
+    background-color: paleturquoise;
+    height: 200px;
 }
+
+.technical {
+    margin-top: 50px;
+    background-color: paleturquoise;
+    height: 200px;
+    width: 200px;
+    margin-bottom: 50px;
+}
+
+.technical {
+    margin-top: 100px;
+} 
+
+/* Solid border */
+hr.solid {
+    border-top: 3px solid #bbb;
+    width: 500px;
+    
+  }
+
+.col-lg-3 {
+    background-color: yellow;
+}
+
+.col-lg-4 {
+    background-color: thistle;
+    height: 250px;
+    
+}
+
+.col-lg-10 {
+    background-color: yellowgreen;
+    height: 300px;
+}
+
 
