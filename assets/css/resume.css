@@ -13,19 +13,22 @@ hr.solid {
   }
 
 .col-lg-3 {
-    background-color: yellow;
-    height: 400px;
+    background-color: transparent;
+    height: 330px;
 }
 
 .col-lg-4 {
     background-color: thistle;
     height: 250px;
+    margin-top: 20px;
     
 }
 
 .col-lg-10 {
     background-color: yellowgreen;
     height: 300px;
+    margin-top: 75px;
+    margin-bottom: 75px;
 }
 
 .box {
@@ -38,15 +41,20 @@ hr.solid {
    
 .boxagain {
     position: relative;
-    margin-top: 150px;
+    margin-top: 200px;
 }      
 
 .square {
     position: absolute;
     width: 1200px;
-    margin-bottom: 200px;
-    
+    margin-top: 310px;
+    margin-left: 175px;
   }
+  
+.exp {
+    margin-top: 75px;
+}
+
 
 
 
