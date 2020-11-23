@@ -26,7 +26,6 @@ hr.solid {
 }
 
 .col-lg-4 {
-    background-color: transparent;
     height: 250px;
     margin-top: 20px;
     
@@ -34,7 +33,7 @@ hr.solid {
 
 .col-lg-10 {
     background-color:transparent;
-    height: 300px;
+    height: 225px;
     
 }
 
@@ -102,6 +101,12 @@ ul {
 .solidagain {
     border-width: 3px;
     border-color: #237A7A;
+}
+
+.col-4 {
+    padding-top: 25px;
+    background-color: white;
+    margin-bottom: 50px;
 }
 
 
