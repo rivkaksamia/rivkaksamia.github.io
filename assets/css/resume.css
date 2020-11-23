@@ -1,12 +1,20 @@
+
+
 .col-lg-5 {
   
-    background-color: paleturquoise;
+    background-color: transparent;
     height: 200px;
+}
+
+.col-5 {
+    background-color: #F2F2F2;
+    height: 200px;
+
 }
 
 /* Solid border */
 hr.solid {
-    border-top: 3px solid #bbb;
+    border-top: 3px solid #237A7A;
     width: 500px;
     margin-left: 543px;
     
@@ -18,24 +26,23 @@ hr.solid {
 }
 
 .col-lg-4 {
-    background-color: thistle;
+    background-color: transparent;
     height: 250px;
     margin-top: 20px;
     
 }
 
 .col-lg-10 {
-    background-color: yellowgreen;
+    background-color:transparent;
     height: 300px;
-    margin-top: 75px;
-    margin-bottom: 75px;
+    
 }
 
 .box {
         position: absolute;
         width: 1200px;
         margin-left: 50px;
-        margin-top: 50px;
+        margin-top: 75px;
         
       }
    
@@ -54,6 +61,26 @@ hr.solid {
 .exp {
     margin-top: 75px;
 }
+
+.margin {
+    margin-top: 12px;
+}
+
+.whitebox {
+    position: relative;
+    background-color: white;
+}
+
+div.myname {
+    position: absolute;
+    background-color: transparent;
+    width: 500px;
+    margin-left: 5rem;
+    top: 10px;
+    
+}
+
+
 
 
 
