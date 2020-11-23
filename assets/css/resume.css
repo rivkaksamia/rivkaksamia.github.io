@@ -99,10 +99,9 @@ ul {
     margin-left:50px;
 }
 
-.Eighteen {
-    position: absolute;
-    padding-right: 50px;
-
+.solidagain {
+    border-width: 3px;
+    border-color: #237A7A;
 }
 
 
