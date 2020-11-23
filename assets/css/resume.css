@@ -64,11 +64,16 @@ hr.solid {
 
 .margin {
     margin-top: 12px;
+    margin-left: 25px;
 }
 
 .whitebox {
     position: relative;
     background-color: white;
+    height: 68px;
+    width: 300px;
+    margin-left: 43px;
+    padding-top: 15px;
 }
 
 div.myname {
@@ -80,7 +85,25 @@ div.myname {
     
 }
 
+ul {
+    list-style-type: circle;
+  }
 
+.icons {
+    margin-top: 10px;
+    position: absolute;
+}
+
+.August {
+    position: relative;
+    margin-left:50px;
+}
+
+.Eighteen {
+    position: absolute;
+    padding-right: 50px;
+
+}
 
 
 
