@@ -1,10 +1,5 @@
-@media (min-width: 700px){
+@media (max-width: 699px){
        
-}
-
-.school {
-    margin-left: 150px;
-   
 }
 
 .col-lg-10 {
@@ -33,3 +28,37 @@
     margin-left: 0;
   }
 
+ .August {
+     display: none;
+ } 
+
+ .col-3 {
+     display: none;
+ }
+
+ .col-2 {
+     display: none;
+ }
+
+.col-lg-6 {
+    position: relative;
+   
+}
+
+
+div.col-5 {
+    width: 300px;
+
+}
+
+.row {
+    width: 1200px;
+}
+
+.myresume {
+    width: 699px;
+}
+
+.icons {
+    width: 25px;
+}
