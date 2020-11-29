@@ -14,3 +14,22 @@
 .solid {
     display: none;
 }
+
+.margin {
+    display: flex;
+}
+
+.box {
+    position: relative;
+    width: 1200px;
+    margin-left: 0;
+    margin-top: 0;
+}    
+
+.square {
+    position: relative;
+    width: 1200px;
+    margin-top: 0;
+    margin-left: 0;
+  }
+
