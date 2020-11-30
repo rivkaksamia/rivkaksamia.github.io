@@ -2,7 +2,56 @@ ul {
     list-style-type: circle;
   }
 
+hr.solid {
+    border-top: 3px solid #237A7A;
+    width: 500px;
+    margin-left: 580px;
+    
+  }
 
+.whitebox {
+    background-color: white;
+    margin-bottom: 100px;
+}
+
+.exp {
+    background-color: white;
+}
+
+.skills {
+    background-color: #F2F2F2;
+    position: absolute;
+    margin-top: 200px;
+
+}
+
+.moreskills {
+    background-color: #F2F2F2;
+    margin-bottom: 172.93px;
+    position: relative;
+
+}
+
+.image {
+    position: absolute;
+    margin-bottom: 100px;
+    margin-top: -100px;
+    margin-left: 125px;
+
+
+}
+
+.help {
+    margin-top: 50px;
+}
+
+
+.june {
+    margin-left: -40px;
+}
+
+
+  
 
 
 
