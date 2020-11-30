@@ -1,64 +1,6 @@
-@media (max-width: 699px){
-       
-}
-
-.col-lg-10 {
-    display: none;
-}
-
-.solid {
-    display: none;
-}
-
-.margin {
-    display: flex;
-}
-
-.box {
-    position: relative;
-    width: 1200px;
-    margin-left: 0;
-    margin-top: 0;
-}    
-
-.square {
-    position: relative;
-    width: 1200px;
-    margin-top: 0;
-    margin-left: 0;
-  }
-
- .August {
-     display: none;
- } 
-
- .col-3 {
-     display: none;
- }
-
- .col-2 {
-     display: none;
- }
-
-.col-lg-6 {
-    position: relative;
-   
-}
 
 
-div.col-5 {
-    width: 300px;
 
-}
 
-.row {
-    width: 1200px;
-}
 
-.myresume {
-    width: 699px;
-}
 
-.icons {
-    width: 25px;
-}
