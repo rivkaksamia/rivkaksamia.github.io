@@ -1,3 +1,15 @@
+
+img:hover {
+    border-color: #237A7A;
+    border-style: solid;
+    border-radius: 15%;
+    opacity: 0.3;
+    display: block;
+    transition: .5s ease;
+    backface-visibility: hidden;
+
+}
+
 .container {
     margin-top: 175px;
     margin-bottom: 175px;
