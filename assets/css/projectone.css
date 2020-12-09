@@ -18,3 +18,12 @@ a {
   .round {
     border-radius: 0;
   }
+
+  p {
+    margin-left: 20px;
+    padding-top: 80px;
+  }
+
+  .importantone {
+    margin-bottom: 50px;
+  }

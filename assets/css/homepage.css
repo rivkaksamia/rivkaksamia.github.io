@@ -10,15 +10,13 @@ img:hover {
 
 }
 
-.container {
-    margin-top: 175px;
-    margin-bottom: 175px;
-}
 
-.move {
-    margin-left: -50px;
+
+.firstrow {
+  margin-top: 90px;
+  
 }
 
 .bot {
-    margin-top: 30px;
+    margin-bottom: 90px;
 }
